@@ -1,0 +1,6 @@
+const ERR_TYPE={
+    BAD_EMAIL_FORMAT:"BAD_EMAIL_FORMAT",
+    EMPTY_STRING:"EMPTY_STRING",
+}
+
+module.exports=ERR_TYPE
